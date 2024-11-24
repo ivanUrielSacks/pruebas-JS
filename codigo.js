@@ -1,3 +1,5 @@
+// Cofla 1
+
 import * as funciones from './funciones.js';
 
 var plataRoberto = parseFloat(prompt("Cuanta plata tiene Roberto?"));
