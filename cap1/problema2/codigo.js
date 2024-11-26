@@ -24,7 +24,7 @@ function comprarVoleto(plata)
     return {plata, voletos}
 }
 
-var {plata, voletos} = comprarVoleto(0);
+var {plata, voletos} = comprarVoleto(dinero);
 
 document.write(`El vagabundo compro ${voletos} voleto/s<br> Y le sobro: $${plata}`);
 
